@@ -21,8 +21,10 @@ Recommendation systems from 3 different angles - product similiary, user similia
 
 
 Deployment
+
 Streamlit App
 
 
 Source of Datasets
+
 Kaggle - https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations
