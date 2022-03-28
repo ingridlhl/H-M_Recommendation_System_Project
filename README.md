@@ -3,7 +3,7 @@ This repository holds a series of product recommendation systems designed for H&
 
 
 ### About
-Recommendation systems from 3 different angles - product similiary, user similiarity & trending product prediction were created.
+Recommendation systems from 3 different angles - product similiarity, user similiarity & trending product prediction were created.
 
 
 1. Content-based Filtering (Product-Product similiarity)
