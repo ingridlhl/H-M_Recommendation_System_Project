@@ -2,7 +2,8 @@
 This repository holds a series of product recommendation systems designed for H&M and the result is deployed to streamlit app.
 
 
-About 
+About
+
 Recommendation systems from 3 different angles - product similiary, user similiarity & trending product prediction were created.
 
 
