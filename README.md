@@ -1,4 +1,4 @@
-# Recommendation System Project - H&M Ecommerce Shopping Recommendation
+# Recommendation System Project - H&M Product Recommendation
 This repository holds a series of product recommendation systems designed for H&M and the result is deployed to streamlit app.
 
 
